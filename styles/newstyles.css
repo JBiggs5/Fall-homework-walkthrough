@@ -1,0 +1,27 @@
+body{
+background-color: lightblue;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+H1{
+font-size: 80px;
+text-align: center;
+}
+H2{
+font-size: 45px;
+    color: blue;
+text-align: center;
+text-decoration: underline;
+
+}
+h3{
+font-size: 30px;
+
+}
+h4{
+font-family: 'Courier New', Courier, monospace;
+color: darkred;
+font-size: 20px;
+
+}
